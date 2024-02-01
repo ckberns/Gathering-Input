@@ -1,0 +1,1 @@
+This program will prompt the user to enter an amount of integers they wish to store. Then, they will be asked to enter each integer individually. After they have finished, the entered numbers will be processed to determine the average of the numbers.
